@@ -1,10 +1,10 @@
 Hi 👋 My name is Lucas Souza
 ============================
 
-Senior Full Stack Developer
+Senior Software Engineer | Tech Lead
 ---------------------------
 
-I have 12+ years working in the technology industry. Skilled in Node (JavaScript/TypeScript), C# (.NET Framework and .NET Core), SQL databases (MySQL, PostgreSQL and SQL Server), Non-relational Databases (Mongo), Multithreaded applications, PHP (pure and with frameworks like Codeigniter), Python and popular frontend frameworks like React, React Native, VueJS and Angular. I'm always open to new technologies and experiences to improve my knowledge.
+Senior Software Engineer and Tech Lead with 12+ years of experience building high-availability distributed systems. Specialized in Node.js/ TypeScript/ Bun, .NET, and AWS (EKS, ECS, RDS), with a strong track record in cloud infrastructure ownership and cost optimization — including a ~38% reduction in monthly AWS spend. Experienced in leading engineering teams, driving architectural decisions, and shipping internal AI tooling (LLM agents, MCP servers) to production.
 
 * 🌍  I'm based in Itatiba, SP, Brazil
 * 🖥️  See my portfolio at [SIMSDEV](http://sims.dev.br)
