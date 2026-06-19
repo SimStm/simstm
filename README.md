@@ -3,8 +3,17 @@ Hi 👋 My name is Lucas Souza
 
 Senior Software Engineer | Tech Lead
 ---------------------------
+I'm a Senior Software Engineer and Tech Lead with 12+ years of experience building systems that need to stay up — high-availability APIs, distributed architectures, and the cloud infrastructure underneath them.
 
-Senior Software Engineer and Tech Lead with 12+ years of experience building high-availability distributed systems. Specialized in Node.js/ TypeScript/ Bun, .NET, and AWS (EKS, ECS, RDS), with a strong track record in cloud infrastructure ownership and cost optimization — including a ~38% reduction in monthly AWS spend. Experienced in leading engineering teams, driving architectural decisions, and shipping internal AI tooling (LLM agents, MCP servers) to production.
+Currently at Infleux, I wear two hats: I lead an engineering team building Node.js/Bun APIs that handle millions of requests per day at ~99.9% uptime, and I own the AWS infrastructure behind them — EKS, RDS, ECS, Lambda, and everything in between. That second hat is where some of my favorite work happens: significant cloud cost reductions through observability pipeline redesign, a zero-downtime PostgreSQL 11→17 major upgrade using Blue/Green Deployment, and data-driven Kubernetes rightsizing instead of guesswork.
+
+Lately, I've been deep in AI engineering — not demos, but production systems: LLM agents with multi-user memory, custom MCP (Model Context Protocol) servers, and messaging automation that meaningfully reduces manual operations work.
+
+Before Infleux, I spent years across the stack and across industries: leading the development of a vacation rental marketplace gateway processing up to $2M/month in bookings, building telephony systems handling 6.3M calls/month between Brazil and the U.S., delivering a bulk SMS platform pushing 12M messages/month, and starting my career administering hundreds of Linux/Windows servers at one of Brazil's largest hosting companies.
+
+I've also founded a game server hosting company and built its management panel from scratch — twice. I like building things end to end: architecture, code, infrastructure, and the team practices that keep it all shippable.
+
+Tech I work with daily: TypeScript/Node.js/Bun, C#/.NET, React/Next.js, PostgreSQL, MongoDB, AWS, Kubernetes, Docker.
 
 * 🌍  I'm based in Itatiba, SP, Brazil
 * 🖥️  See my portfolio at [SIMSDEV](http://sims.dev.br)
@@ -14,7 +23,8 @@ Senior Software Engineer and Tech Lead with 12+ years of experience building hig
 <a href="https://www.github.com/simstm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/simstm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br /><a href="https://www.x.com/LucasSims" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LucasSims?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a><br />
+<a href="https://www.buymeacoffee.com/simstm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Skills
 
